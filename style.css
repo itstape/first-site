@@ -56,7 +56,7 @@ body{
     
     margin-top: 50px;
     
-    background-image: url(images/amKrvk6yzOZI.jpg);
+    background-image: url(amKrvk6yzOZI.jpg);
     
     background-position: top center;
     
@@ -293,19 +293,19 @@ body{
 
 .contact-adress{
     
-    background-image: url(images/address.png);
+    background-image: url(address.png);
     
 }
 
 .contact-number{
     
-    background-image: url(images/phone.png);
+    background-image: url(phone.png);
     
 }
 
 .contact-mail{
     
-    background-image: url(images/mail.png);
+    background-image: url(mail.png);
     
 }
 
